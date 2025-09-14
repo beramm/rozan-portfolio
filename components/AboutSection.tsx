@@ -41,7 +41,7 @@ const AboutSection = () => {
 
             <br />
             <p>
-              I graduated from Universitas Islam Indonesia, Yogyakarta, in 2023 with a Bachelor's degree in Management,
+              I graduated from Universitas Islam Indonesia, Yogyakarta, in 2023 with a Bachelor&apos;s degree in Management,
               achieving a <span className="font-semibold"> 3.40/4.00 GPA</span>. During my studies, I explored a wide range of courses including strategic marketing,
               digital marketing, international marketing, and organizational behavior, which gave me a strong foundation in both theory and practice.
             </p>
@@ -73,8 +73,8 @@ const AboutSection = () => {
 
             <br />
             <p>
-              I believe in <span className="font-bold text-teal-500">continuous growth</span>, and I'm passionate about pursuing opportunities where I can combine <span className="font-semibold">creativity,
-                strategy, and communication</span> to deliver impactful results. Whether it's driving sales, building customer
+              I believe in <span className="font-bold text-teal-500">continuous growth</span>, and I&apos;m passionate about pursuing opportunities where I can combine <span className="font-semibold">creativity,
+                strategy, and communication</span> to deliver impactful results. Whether it&apos;s driving sales, building customer
               relationships, or managing events, I am eager to take on new challenges that allow me to grow while contributing
               meaningfully to the organization I am part of.
             </p>
