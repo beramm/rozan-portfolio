@@ -103,6 +103,13 @@ const AboutSection = () => {
               height={325}
               className="hidden md:block rounded-2xl md:relative md:top-4 md:left-16 md:z-0"
             />
+            <Image
+              src="/cartoonized-1.png"
+              alt=""
+              width={325}
+              height={325}
+              className="hidden md:block rounded-2xl md:relative md:top-4 md:left-16 md:z-0"
+            />
           </div>
         </div>
       </div>

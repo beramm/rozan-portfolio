@@ -21,11 +21,10 @@ const HeroSection = () => {
           {/* I’m Rozan Baariq, a marketing graduate with 3+ years hands-on experience in hospitality, FnB, and event activation. I’m passionate about creating engaging customer experiences — from sales to social media to on-ground events. */}
           <h1 className="text-4xl font-bold mt-6 md:mt-0 md:text-7xl">Hi, I&#39;m Rozan Baariq!</h1>
           <p className="text-lg mt-4 mb-6 md:text-2xl">
-            I&apos;m a marketing graduate with 3+ years hands-on {" "}
+            Known for a
             <span className="font-semibold text-teal-600">
-              experience in Sales, Events & Hospitality
-            </span>{" "}
-            I&apos;m passionate about creating engaging customer experiences — from sales to social media to on-ground events.          </p>
+              {" "}warm personality, sharp communication, and creative problem-solving</span>{" "}
+            I&apos;m Passionate about bringing brands closer to people — beautifully and memorably.</p>
 
           <Link
             to="projects"
