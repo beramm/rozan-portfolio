@@ -79,7 +79,19 @@ const AboutSection = () => {
               meaningfully to the organization I am part of.
             </p>
 
-
+            <div className="mt-8 text-center md:text-left">
+              <p className="text-lg font-medium">
+                Want the full story?  Below is{" "}
+                <span className="text-teal-500 font-semibold">My creative portfolio</span>, Check it now!
+              </p>
+              <a
+                href="/Rozan_Portfolio.pdf"
+                download
+                className="inline-block mt-4 px-6 py-3 bg-teal-600 text-neutral-100 font-semibold rounded shadow hover:bg-teal-700 transition duration-300"
+              >
+                Download Portfolio
+              </a>
+            </div>
 
           </div>
           <div className="text-center md:w-1/2 md:text-left">
@@ -111,7 +123,11 @@ const AboutSection = () => {
               className="hidden md:block rounded-2xl md:relative md:top-4 md:left-16 md:z-0"
             />
           </div>
+
+
+
         </div>
+
       </div>
     </section>
   )
