@@ -41,7 +41,7 @@ const AboutSection = () => {
 
             <br />
             <p>
-              I graduated from Universitas Islam Indonesia, Yogyakarta, in 2023 with a Bachelor&apos;s degree in Management,
+              I graduated from Universitas Islam Indonesia, Yogyakarta, in 2025 with a Bachelor&apos;s degree in Management,
               achieving a <span className="font-semibold"> 3.40/4.00 GPA</span>. During my studies, I explored a wide range of courses including strategic marketing,
               digital marketing, international marketing, and organizational behavior, which gave me a strong foundation in both theory and practice.
             </p>
